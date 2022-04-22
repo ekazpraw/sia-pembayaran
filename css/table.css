@@ -1,0 +1,51 @@
+<style type="text/css">
+
+#tabel { width: 250px;}
+th {
+    font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    color: #FFF;
+    border-right: 1px solid #C1DAD7;
+    border-bottom: 1px solid #C1DAD7;
+    border-top: 1px solid #C1DAD7;
+    letter-spacing: 2px;
+    padding: 4px 2px 4px 2px;
+    background: #646161 url(images/bg_header.jpg) no-repeat;
+	text-align: center;
+}
+td {
+    font: bold 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    border-right: 1px solid #C1DAD7;
+    border-bottom: 1px solid #C1DAD7;
+    border-left: 1px solid #C1DAD7;
+    padding: 4px 4px 4px 4px;
+}
+td.alt {
+    background: #FFF;
+    color: #797268;
+}
+ 
+td.alts {
+    background:#FFF;
+    color: #797268;
+}
+tr {
+    font: bold 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    border-right: 1px solid #C1DAD7;
+    border-bottom: 1px solid #C1DAD7;
+    border-left: 1px solid #C1DAD7;
+    padding: 4px 4px 4px 4px;
+}
+tr.alt {
+    background: #F5FAFA;
+    color: #797268;
+}
+ 
+tr.alts {
+    background:#FFF;
+    color: #797268;
+}
+ 
+* html .threepxfix{
+margin-left: 3px;
+}
+</style>
